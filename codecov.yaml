@@ -1,3 +1,4 @@
 ignore:
-  - "**/test/*"
+  - "**/test/**"
   - "crates/wasm/**"
+  - "**/examples/**"
